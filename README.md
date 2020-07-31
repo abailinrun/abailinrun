@@ -1,7 +1,7 @@
-### Hi there 👋
-
 <!--
 **aBaiLinrun/aBaiLinrun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aBaiLinrun&repo=github-readme-stats&theme=onedark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=aBaiLinrun&repo=convoychat&theme=onedark" />
+</a>
