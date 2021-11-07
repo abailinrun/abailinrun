@@ -220,7 +220,7 @@ Here are some ideas to get you started:
 
 <br /><br />
 
-## _Data Anslytics & Machine Learning & Visualization_
+## _Data Anslytics & Visualization_
 
 <a href="https://julialang.org" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="julia" height="42px" src="https://user-images.githubusercontent.com/38312944/140623466-355f8823-a80c-434a-9f9a-61a9f3050c47.png" />
@@ -247,6 +247,22 @@ Here are some ideas to get you started:
 </a>
 
 <br /><br />
+
+<a href="https://cloud.google.com/bigquery" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="big-query" height="42px" src="https://user-images.githubusercontent.com/38312944/140611515-f0eb58d3-56e8-4b57-b97d-20e9c6c465a5.png" />
+</a>
+
+<a href="https://www.elastic.co" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="elasticsearch" height="42px" src="https://user-images.githubusercontent.com/38312944/140611519-b7c5345e-55f2-40f1-b12d-2d1a65f00cc8.png" />
+</a>
+
+<a href="https://www.metabase.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="metabase" height="42px" src="https://user-images.githubusercontent.com/38312944/140614340-3ce4dedd-328d-4684-acce-01e71fab529a.png" />
+</a>
+
+<br /><br />
+
+## _Machine Learning_
 
 <a href="https://scikit-learn.org" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="scikit-learn" height="42px" src="https://user-images.githubusercontent.com/38312944/140610144-558e29ba-4c3f-413d-83e8-e63e0d6793bf.png" />
@@ -280,20 +296,6 @@ Here are some ideas to get you started:
 
 <a href="https://spacy.io" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="spacy" height="42px" src="https://user-images.githubusercontent.com/38312944/140628801-de5ae861-e20f-4090-8a28-5b66dfe7d190.png" />
-</a>
-
-<br /><br />
-
-<a href="https://cloud.google.com/bigquery" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="big-query" height="42px" src="https://user-images.githubusercontent.com/38312944/140611515-f0eb58d3-56e8-4b57-b97d-20e9c6c465a5.png" />
-</a>
-
-<a href="https://www.elastic.co" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="elasticsearch" height="42px" src="https://user-images.githubusercontent.com/38312944/140611519-b7c5345e-55f2-40f1-b12d-2d1a65f00cc8.png" />
-</a>
-
-<a href="https://www.metabase.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="metabase" height="42px" src="https://user-images.githubusercontent.com/38312944/140614340-3ce4dedd-328d-4684-acce-01e71fab529a.png" />
 </a>
 
 <br /><br />
