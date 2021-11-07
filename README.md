@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 -->
 
-# Languages / Frameworks / Platforms / Tools
+# 🪐 Languages / Frameworks / Platforms / Tools <!-- ☄️ -->
 
-## _Backend_
+## ⛩ _Backend_ <!-- 🗼 -->
 
 <a href="https://elixir-lang.org" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="elixir" height="42px" src="https://user-images.githubusercontent.com/38312944/140606330-8396333a-fc9e-442c-907d-13a94ee5686e.png" />
@@ -130,7 +130,18 @@ Here are some ideas to get you started:
 
 <br /><br />
 
-## _Frontend_
+# 🗼 
+
+<details>
+  <summary> 🧧 🏮 :octocat: 🐈‍ 🐱 😿 😻 😹 😽 🙀 😾 😼 😸 🦊 🐅 🐯 🦁 🐿 🐙 🐇 🐰 🦑 🐁 🐹 🦀 🦄 🐡 🐋 🐳 🐘 🦕 🐾 🦎 🦋 🐣 🐥 🐤 ⚡️ ✨</summary>
+  <br />
+
+  <details>
+    <summary>the story of mine: </summary>
+    🧮 🩹 🧑 🚡 ✈️ ⚗️ 👽 🚑 🏺 ⚓ 👼 🐜 🍎 ♒ *️⃣ 🚛 🛰️ 👟 🏧 :atom: ⚛️ 🧑‍🚀 🛺 🥑 🪓 👶 🍼 🚼 🥓 🦡 🏸 🥯 🛄 🥖 ⚖️ 🩰 🎈 🗳️ 🎍 🍌 🪕 🏦 📊 💈 ⚾ :basecamp: :basecampy: 🧺 🏀 🦇 🛀 🛁 🔋 🎋 🏖️ 🐻 🦫 🛏️ 🐝 🍺 🍻 🪲 🔔 🧃 🚴 🚲 🚴‍♂️ 🚴‍♀️ 👙 🧢 🧢 ☣️ 🐦 🎂 🐗 ⛵ 💣 🦴 📖 🔖 📑 📚 💥 👢 💐 🏹 🙇‍♂️ 🙇‍♀️ 🥣 🎳 :bowtie: 🥊 🧠 🍞 🤱 🧱 🌉 💼 🥦 💔 🧹 💡 🌯 🚌 🕴️ 🚏 👤 👥 🚐 🚍 🚎 🧈 🌵 🍰 🤙 📲 🐫 📷 📸 🏕️ 🕯️ 🍬 🥫 🛶 🚗 🚙 🗃️ 📇 🗂️ 🎠 🥕 💳 💿 ⛓️ 🪑 🍾 🧀 🍒 🌸 ♟️ 🌰 🚸 🐿️ 🍫 🥢 ⛪ 🎪 🌇 🌆 🏙️ 🗜️ 👏 🎬 🧗 🧗‍♂️ 🧗‍♀️ 🥂 📕 🔐 🌂 ☁️ 🌤️ 🤡 🧥 🍸 🥥 ☕ ⚰️ 🥶 💥 ☄️ 🧭 💻 🖱️ 🖥️ 🎊 🚧 🏗️ 👷 👷‍♂️ 👷‍♀️ 🎛️ 🏪 🧑‍🍳 🍪 👮 🌽 🛋️ 👫 💑 👩‍❤️‍💋‍👨 🐮 🐄 🤠 🦀 🖍️ 🌙 🦗 🏏 🐊 🥐 🤞 🎌 ⚔️ 👑 🔮 🥒 🥤 🧁 💘 🥌 ➰ 🍛 🍮 🥩 🌀 🗡️ 💃 🍡 🕶️ 🎯 💨 🐪 🌳 🦌 🏬 🏚️ 🏜️ 🏝️ 🕵️ 💠 🤿 🪔 💫 🧬 🎎 🐬 🚪 🍩 🕊️ 🐉 🐲 👗 🤤 🩸 💧 🥁 🛢️ 🦆 🥟 📀 🥪 🦅 👂 🦻 🌍 🥚 🍆 🔌 :electron: 🐘 🧝 🧝‍♀️ 📧 ✉️ 📩 💶 🏰 🏤 🇪🇺 🌲 ❗ 🤯 😑 👁️ 👁️‍🗨️ 👓 👀 🤧 🤦 👊 🏭 🧑‍🏭 🧚 🧚‍♂️ 🧚‍♀️ 🍂 🧆 🧑‍🌾 📠 :feelsgood: 🐾 🕵️‍♀️ 🎡 ⛴️ 🔥 🚒 🧯 🧨 🧑‍🚒 🎆 👨‍🚒 👩‍🚒 🌙 🌓 🌛 🌕 🌝 🌗 🌜 🌔 🥮 🌑 🌚 🌘 🌖 🌒 🌔 🐡 🐟 🍥 🎣 🐠 ✊ 🎏 🦩 🔦 🥿 ⚜️ 🛬 🛫 🐬 💾 🎴 🥏 🛸 🦶 🏈 👣 🍴 🥠 ⛲ 🖋️ 🍀 🦊 🍳 🍤 🍟 🐸 🖕 ⚱️ 🗻 🥬 🎲 🧄 ⚙️ 💎 🧞 🧞‍♂️ 🧞‍♀️ 👻 🎁 💝 🦒 👧 🌐 🧤 🥅 🐐 🥽 ⛳ 🏌️ 🦍 👺 🍇 🥗 💂 💂‍♂️ 💂‍♀️ 🎸 🔫 💇 🍔 🔨 ⚒️ 🛠️ 🐹 ☘️ 👜 🤾 💩 #️⃣ 🧑‍⚕️ 🙉 ❤️ 💟 💗 😘 ❗ ❣️ ➖ ✖️ ➕ 🦔 🚁 🌿 👠 🌺 🔆 🥾 🛕 🦛 🎣 🀄 🔪 🕳️ 🍯 🐝 🐴 🏇 📯 🐎 🩳 🏥 🌶️ 🌭 🏨 ♨️ 🏩 ⌛ ⏳ 🏚️ 🏠 🏡 🏘️ 📌 📍 🤗 😯 🪂 🏆 🍨 🧊 🏒 ⛸️ 🍦 🆔 🉐 👿 😇 📥 📨 ♾️ 💁 ℹ️ 📱 🥝 🔯 🪔 🎃 🏯 👺 👹 👖 🧩 🕹️ 🧑‍⚖️ 🤹 🕋 🦘 :neckbeard: 🖲️ 🔑 ⌨️ 🔟 🪁 🧎‍♂️ 🧎 🧎‍♀️ 🔪 🐨 🌌 🗼 🥼 🏷️ 🥍 🧆 🎏 🐞 🏮 🦙 💡 🏑 🛅 🤛 🗨️ 👈 🦵 🍋 🐆 🎚️ 🧴 💌 :trollface: 🐺 🛎️ 🚈 🔗 🦁 👄 💄 🍭 🧘 🦞 🔒 🔏 ➿ 🔊 📢 🤟 🔅 ⛽ 🕰️ 🎎 💗 🔣 💞 🤥 🔍 🧙 🧙‍♂️ 🧙‍♀️ 👨‍🎨 👨‍🚀 👨‍🌾 👨‍⚕️ 👨‍🦯 🍊 🥭 👞 🕰️ 🦽 💆 💆‍♂️ 💆‍♀️ 🧜‍♀️ 🧜‍♂️ 🧉 🍖 👨‍🔧 🧑‍🔧 🦾 🦿 👩‍🔧 🎖️ 🏅 ⚕️ 📣 🍈 📝 🤼‍♂️ 🕎 🚹 🍜 🤘 🚇 🦠 🇫🇲 🎤 🔬 🎙️ 🖕 🥛 🌌 🚐 💽 📴 🤑 💸 💰 🐒 🐵 🧐 🚝 🎓 🕌 🦟 👨‍🦼 🛥️ 🛵 🏍️ 🦼 🛣️ 🚂 🗻 ⛰️ 🚠 🚞 🏔️ 🌄 🐭 🐁 🎥 🗿 🏺 🤶 🩱 🤲 🇧🇲 💪 🍄 🎹 🎵 🎼 😒 🔇 🧿 💅 📛 🤢 👔 🤓 🙅‍♂️ 🙅 🙅‍♀️ 🌃 🪕 🛶 😶 👘 🥾 🛴 👃 📓 📔 🎶 🗒️ 🌇 🌅 🌄 🍱 🔩 🥜 🧧 👾 📉 🤪 🚘 🌊 :octocat: 🐙 🍢 🥿 👞 👞 👟 🩰 🏢 🧑‍💼 ☣️ 🛢️ ✴️ 📽️ 🈁 🆗 👌 🙆‍♂️ 🙆 🙆‍♀️ 🗝️ 🧓 👴 👵 🕉️ 🧅 🦴 1️⃣ 🩱 🚘 🚍 🚔 🚖 📖 📂 👐 😮 ☂️ 🍊 🦧 📙 🦦 📤 🦉 🐂 🦪 🥴 📰 🗞️ 📎 🖇️ 🧻 📦 📄 📃 📟 🍝 🖌️ 🌴 🤲 🥞 🐼 🗾 🥘 ⛱️ 🦜 🪂 〽️ ⛅ 🥳 🛳️ 🛂 ♟️ 🐾 📋 🧁 🍿 🍑 🦚 🥜 🍐 🙊 🖊️ 📝 ✏️ 🐧 😔 🧑‍🤝‍🧑 🎭 😣 🧑‍🦲 🧔 🤺 👰 🧖 💁 ⛏️ 🥧 🐷 🐖 🐽 💊 🧑‍✈️ 👩‍✈️ 🤏 🍍 🏓 📌 📍 🧷 🦂 🏴‍☠️ ♓ 🍕 🍽️ 🥺 🐿️ 🥣 😞 🏤 🚓 🐩 💩 🥄 🍿 🏣 📯 📮 🚩 🥔 🍠 👝 🍗 💷 😡 😾 🤐 🙏 📿 🤰 🥨 🤴 👸 🖨️ 🦯 👩‍🦯 🚁 👊 👛 📌 📈 ⏱️ 💾 😪 ❓ 🦀 🐰 🐇 🦝 🐎 🏎️ 📻 🔘 ☢️ 😡 🚈 🚝 🚞 🚃 🛤️ 🚟 🌈 🏳️‍🌈 🤨 🖼️ 🐏 🍜 🚊 🐀 🪒 🧾 ♻️ 📞 🚗 🧧 ☺️ 😌 🥖 🎗️ ⛑️ 🥨 ㊙️ 🇷🇪 🎆 🦖 ❕ ❔ 🇻🇮 🦏 🔌 🎀 🍚 🌾 🍚 🍙 🍘 🎑 🗯️ 💍 🪐 🤖 🚀 🤣 🙄 🧻 🎢 👑 🐓 🌹 🏵️ 🚨 🎠 📍 🚣 🚣‍♂️ 🚣‍♀️ 🛩️ 🎽 🎨 🏉 🏃 🏃 🏃‍♂️ 🏃‍♀️ 🐕‍🦺 🔮 🍛 👩‍🏭 🧷 🦺 ⛵ 🍶 🧂 🥗 🖖 ☠️ ⚖️ 🧣 🏫 🎒 🧑‍🔬 ✂️ 👩‍🔬 🥏 🦂 😱 🙀 📜 👎 💺 🙈 🌱 🤳 🐕‍🦺 😆 :feelsgood: 🥘 ☘️ 🦈 🍧 🐑 🐚 🛡️ ⛩️ 🚢 :shipit: 👕 💩 🤫 🍣 👕 👞 👞 🛍️ 🛒 🩳 🚿 🍤 🦐 🤷 🤷‍♀️ 🤫 📶 🧑‍🎤 6️⃣ 🔯 🛑 🚟 👩‍🎤 🙃 *️⃣ 🧺 🏀 🛹 🎿 ⛷️ 💀 ☠️ 🦨 🗑️ 🛷 😴 😴 🛌 😪 🙁 🙂 🎚️ 🎰 🦥 🛩️ 😙 🙂 😄 😸 😃 😺 🥰 😈 😏 😼 😅 🚬 🏔️ 🐌 🐍 🤧 🏂 ❄️ ⛄ ☃️ 🧼 😭 ⚽ 🧦 🥎 🔜 🧔 🆘 🔉 🧍 👾 ♠️ 🍝 ❇️ 🎇 ✨ 💖 🔈 🗣️ 💬 🚤 :suspect: 🚟 🕷️ 🕸️ 🗓️ 🗒️ 🧽 🥄 🦑 🌼 🏟️ ⭐ 🍮 🌟 ☪️ ✡️ 🤩 🌠 🚉 🗽 🚂 🩺 🍲 🗑️ 😲 🚏 🏪 ⏱️ 📏 🚧 🏗️ 🍓 👩‍🚀 😛 😝 😜 🧑‍🎓 🎙️ 🥙 👩‍🎓 🌇 🌆 🕶️ ⛅ 🌥️ 🌦️ 🌤️ 🌞 🌻 😎 ☀️ 🌅 🌄 🦸 🦸‍♂️ 🦸‍♀️ 🦹 🦹‍♂️ 🦹‍♀️ 👍 🏄 🏄‍♂️ 🏄‍♀️ 🍣 🚟 🦢 😓 💦 😅 🍠 🩱 🩲 🏊 🏊‍♂️ 🏊‍♀️ 🕍 💉 🌮 🎉 🎋 🍊 ♉ 🚕 🌭 🍵 🧑‍🏫 👩‍🏫 🧑‍💻 🧸 ☎️ 📞 🔭 🎪 🎾 ⛺ 🧪 ☑️ 🎂 🌡️ 🤔 💭 🧵 🦷 👩‍⚕️ 🧕 👩‍🦯 👳‍♀️ 👚 🤐 🕹️ 🎫 🎟️ :bowtie: 👔 🛰️ 🐯 🐅 🚀 ⏲️ 😫 🏯 ™️ :atom: 🚽 🗼 🍅 👅 🧰 🦷 🔝 🎩 🌪️ 🚜 👣 💗 🚜 🚥 🚋 🚆 🚊 🚦 📐 🔱 😤 🎛️ 🚎 :trollface: 🏆 🍹 🐠 🚚 🎺 👕 🌵 🌷 🥃 🦃 🐢 📺 🤸 💕 🥨 ☔ 🔞 🦄 🔓 🆙 🙃 🩹 ✌️ 🧛 🧛‍♂️ 🧛‍♀️ 🚦 📼 📳 📹 🎮 🎻 ♍ 🌋 🏐 🤮 🆚 🖖 👋 〰️ 🧃 🇻🇦 🧇 🚶 🚶‍♂️ 🥣 🎳 🦉 🚶‍♀️ 🌘 🌖 ⚠️ 🗑️ ⌚ ⏱️ 🐃 🤽 🍉 🤽‍♀️ 👋 〰️ 😩 😰 💒 🏋️ 🏋️‍♂️ 🏋️‍♀️ 🚿 💮 🥀 🐡 🐡 🐟 🍥 🎣 🐠 🐳 🐋 ☸️ ♿ 🎡 🔳 🥀 🎐 🌬️ 🍷 😉 🧕 👩‍🦯 ⛄ ☃️ 🥱 🐺 🚺 🥴 🗺️ 😟 🔧 🤼 ✍️ 🥊 🗃️ 📇 🗂️ 💱 🦊 🥡 ❌ 🧶 🥱 💴 🪀 😋 🤪 ⚡ 🦓 0️⃣ 🤐 🧟 🧟‍♂️ 🧟‍♀️ 💤
+  </details>
+
+## 🎏 _Frontend_ <!-- 🎎 -->
 
 <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="typescript" height="42px" src="https://user-images.githubusercontent.com/38312944/140606619-2deb981a-1f71-4d98-9e49-feaee46d1178.png" />
@@ -182,9 +193,11 @@ Here are some ideas to get you started:
   <img align="left" alt="elm" height="42px" src="https://user-images.githubusercontent.com/38312944/140625556-1f60563e-563a-4ac0-8c26-6842015a0d3e.png" />
 </a>
 
-<br /><br />
+<br /><br /><br />
 
-## _Application_
+<!-- ###### 🐶 🐕 🐩 🦮 🐕‍🦺 🐺 🐗 -->
+
+## 🎐 _Application_ <!-- 🎈 -->
 
 <a href="https://kotlinlang.org" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="kotlin" height="36px" src="https://user-images.githubusercontent.com/38312944/140609307-0f8832f1-5dfb-46d0-b841-2fe1b9372c7f.png" />
@@ -194,9 +207,11 @@ Here are some ideas to get you started:
   <img align="left" alt="swift" height="42px" src="https://user-images.githubusercontent.com/38312944/140609298-524cd1d9-04e8-4fbb-a68b-d64d54ad92ff.png" />
 </a>
 
-<br /><br />
+<br /><br /><br />
 
-## _Database_
+<!-- ###### 🐱 🐈 🐯 🐅 🐆 🦁 🦊 🐻 🐼 🐨 -->
+
+## 📦 _Database_ <!-- ⚰️ -->
 
 <a href="https://www.mongodb.com" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="mongodb" height="42px" src="https://user-images.githubusercontent.com/38312944/140611635-61b22261-e7a9-4f0c-a682-3d7b2a74759b.png" />
@@ -218,9 +233,11 @@ Here are some ideas to get you started:
   <img align="left" alt="postgresql" height="42px" src="https://user-images.githubusercontent.com/38312944/140611759-244f85c8-c0e3-45bf-a736-f2c715a557a5.png" />
 </a>
 
-<br /><br />
+<br /><br /><br />
 
-## _Cloud Data Warehouse & Hosting & ETL(Extract,Transform,Load)_
+<!-- ###### 🐭 🐹 🐁 🐀 🍏 🍎 🍐 🍊 🍋 🍌 🍉 🍇 🍓 🍈 🍒 🍑 🥭 🍍 🥥 🥝 -->
+
+## 🕋 _Cloud Data Warehouse & Hosting & ETL(Extract,Transform,Load)_
 
 <a href="https://clickhouse.com" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="clickhouse" height="35px" src="https://user-images.githubusercontent.com/38312944/140630994-cd23f261-6f8b-4e00-b386-680f8ec9214e.png" />
@@ -242,9 +259,11 @@ Here are some ideas to get you started:
   <img align="left" alt="digitalocean" height="35px" src="https://user-images.githubusercontent.com/38312944/140631157-35197550-0980-4587-8f28-b34d46a7996b.png" />
 </a>
 
-<br /><br />
+<br /><br /><br />
 
-## _Data Anslytics & Visualization_
+<!-- ###### 🐰 🐇 🍅 🍆 🥑 🥦 🥬 🥒 🌶 🌽 🥕 🧄 🧅 🥔 🍠 -->
+
+## 👁️‍🗨️ _Data Anslytics & Visualization_ <!-- 🔮 -->
 
 <a href="https://julialang.org" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="julia" height="42px" src="https://user-images.githubusercontent.com/38312944/140623466-355f8823-a80c-434a-9f9a-61a9f3050c47.png" />
@@ -284,9 +303,11 @@ Here are some ideas to get you started:
   <img align="left" alt="metabase" height="42px" src="https://user-images.githubusercontent.com/38312944/140614340-3ce4dedd-328d-4684-acce-01e71fab529a.png" />
 </a>
 
-<br /><br />
+<br /><br /><br />
 
-## _Machine Learning_
+<!-- ###### 🐷 🐖 🐽 🐴 🦄 🐎 🦓 🐮 🐃 🐂 🐄 🐏 🐑 🐐 🦙 🦌 -->
+
+## 👾 _Machine Learning_ 🔮🧙🏼‍♂️⚗️
 
 <a href="https://scikit-learn.org" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="scikit-learn" height="42px" src="https://user-images.githubusercontent.com/38312944/140610144-558e29ba-4c3f-413d-83e8-e63e0d6793bf.png" />
@@ -322,9 +343,11 @@ Here are some ideas to get you started:
   <img align="left" alt="spacy" height="42px" src="https://user-images.githubusercontent.com/38312944/140628801-de5ae861-e20f-4090-8a28-5b66dfe7d190.png" />
 </a>
 
-<br /><br />
+<br /><br /><br />
 
-## _Container Orchestration & Configuration Automation_
+<!-- ###### 🦝 🦨 🦡 🦦 🦥 🐿 🦔 🐾 -->
+
+## 🧬 _Container Orchestration & Configuration Automation_
 
 <a href="https://www.terraform.io" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="terraform" height="42px" src="https://user-images.githubusercontent.com/38312944/140612304-4177d615-efdf-4c3f-a68c-e6da6e6c01ee.png" />
@@ -342,9 +365,11 @@ Here are some ideas to get you started:
   <img align="left" alt="docker" height="42px" src="https://user-images.githubusercontent.com/38312944/140610635-a02899e5-4b74-42b5-91aa-c625adbd9874.png" />
 </a>
 
-<br /><br />
+<br /><br /><br />
 
-## _Cloud Infrastructure_
+<!-- ###### 🐘 🦛 🦏 🐪 🐫 🦒 🦘 -->
+
+## 🗻 _Cloud Infrastructure_ ☁️
 
 <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="aws" height="35px" src="https://user-images.githubusercontent.com/38312944/140612998-5c976740-dedc-471b-9b36-64a7759e0421.png" />
@@ -359,9 +384,11 @@ Here are some ideas to get you started:
   <img align="left" alt="gcp" height="35px" src="https://user-images.githubusercontent.com/38312944/140612996-583799dc-956a-465a-9b47-f83ebaeed1c7.png" />
 </a>
 
-<br /><br />
+<br /><br /><br />
 
-## _CI/CD & Building & Testing & Deploying & Automation_
+<!-- ###### 🐵 🙈 🙉 🙊 🐒 🦍 🦧 -->
+
+## 🏗️ _CI/CD & Building & Testing & Deploying & Automation_
 
 <a href="https://www.jenkins.io" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="jenkins" height="35px" src="https://user-images.githubusercontent.com/38312944/140616580-40270d36-6189-4305-b0e7-3e95cb561fab.png" />
@@ -371,9 +398,11 @@ Here are some ideas to get you started:
   <img align="left" alt="cicleci" height="35px" src="https://user-images.githubusercontent.com/38312944/140613594-024814a0-49c8-4c95-b23f-ef2efa1e62c2.png" />
 </a>
 
-<br /><br />
+<br /><br /><br />
 
-## _End2End Automation Testing_
+<!-- ###### 🐉 🐲 🦖 🦕 -->
+
+## 🧪 _End2End Automation Testing_ 🧫
 
 <a href="https://www.selenium.dev" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="selenium" height="35px" src="https://user-images.githubusercontent.com/38312944/140626221-ea7e7a15-df8c-459c-bdb2-07e87a203b66.png" />
@@ -387,9 +416,11 @@ Here are some ideas to get you started:
   <img align="left" alt="mabl" height="35px" src="https://user-images.githubusercontent.com/38312944/140625207-b9de61f1-8cd8-407a-b3b0-f9b2edbda6bf.png" />
 </a>
 
-<br /><br />
+<br /><br /><br />
 
-## _Chaos Engineering_
+<!-- ###### 🦠🩸💉💊🩺🩹🕳🔬🧿🏺⚱️🚬🛡⚔️🗡🔪🪓⚙️🔩⛏🛠⚒🔨🔧🧰🔦🧨💣⛓🧱 -->
+
+## 😈 _Chaos Engineering_ 👹 🎴
 
 <a href="https://netflix.github.io/chaosmonkey" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="chaosmonkey" height="35px" src="https://user-images.githubusercontent.com/38312944/140627401-8b059385-684f-4aea-b8a0-8b3e782a4a74.png" />
@@ -423,9 +454,11 @@ Here are some ideas to get you started:
   <img align="left" alt="robust-intelligence" height="35px" src="https://user-images.githubusercontent.com/38312944/140616535-89c11331-e639-4cb4-ac60-23e2817ab53a.png" />
 </a>
 
-<br /><br />
+<br /><br /><br />
 
-## _git & Repository_
+<!-- ###### 🦑 🦐 🦞 🦀 🐡 🐠 🐟 🐬 🐳 🐋 🦈 -->
+
+## :octocat: _git & Repository_ 🐈🙀🐙 🦊
 
 <a href="https://git-scm.com" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="git" height="35px" src="https://user-images.githubusercontent.com/38312944/140626746-5687dcd9-f3e5-4eed-aaee-c417901deb59.png" />
@@ -439,9 +472,11 @@ Here are some ideas to get you started:
   <img align="left" alt="gitlab" height="35px" src="https://user-images.githubusercontent.com/38312944/140626664-27c13aa2-2775-40ad-a4ef-8ff3261ed746.png" />
 </a>
 
-<br /><br />
+<br /><br /><br />
 
-## _Linux Distribution_
+<!-- ###### 🐝 🐛 🦋 🐌 🐞 🐜 🦟 🦗 🕷 🕸 -->
+
+## 🐧 _Linux Distribution_ 🐮
 
 <a href="https://www.kernel.org" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="linux" height="42px" src="https://user-images.githubusercontent.com/38312944/140623830-2937df42-2034-4c8d-baf6-5f10e6948e26.jpeg" />
@@ -467,9 +502,11 @@ Here are some ideas to get you started:
   <img align="left" alt="arch" height="42px" src="https://user-images.githubusercontent.com/38312944/140623848-587eb02d-ecc8-496c-bbb4-95329bdb2ea0.png" />
 </a>
 
-<br /><br />
+<br /><br /><br />
 
-## _Robotics & Interactive Art_
+<!-- ###### 🐔 🐧 🐦 🐤 🐣 🐥 🦆 🦅 🦉 🐓 🦃 🦚 🦜 🦢 🦩 🕊 🦇 -->
+
+## 🤖 _Robotics & Interactive Art_ 🗿
 
 <a href="https://www.ros.org" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="ros" height="42px" src="https://user-images.githubusercontent.com/38312944/140623533-0f885b5b-eeec-4ef0-b3b8-6617944cdc6e.png" />
@@ -491,9 +528,11 @@ Here are some ideas to get you started:
   <img align="left" alt="scratch" height="42px" src="https://user-images.githubusercontent.com/38312944/140623558-677019ea-a7f9-437d-b3c5-be0a97b128c5.png" />
 </a>
 
-<br /><br />
+<br /><br /><br />
 
-## _Scrum & Team_
+<!-- ###### 🌵 🎍 🎋 🍂 🍁 🍄 🌸 🌼 🌻 -->
+
+## 🗣 _Scrum & Team_ 👨‍💻🧑🏻‍💻👩🏻‍💻👨🏻‍💻 🚪
 
 <a href="https://asana.com" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="asana" height="25px" src="https://user-images.githubusercontent.com/38312944/140613752-9cad24e4-7ee7-4ea6-9b91-0dd41dfa418d.png" />
@@ -529,9 +568,11 @@ Here are some ideas to get you started:
   <img align="left" alt="glean" height="35px" src="https://user-images.githubusercontent.com/38312944/140615699-03ff87a6-eec5-45cc-b89a-a06af1177206.png" />
 </a>
 
-<br /><br />
+<br /><br /><br />
 
-## _Editor_
+<!-- ###### 🌈 🌞 🌝 🌛 🌜 🌚 🌕 🌖 🌗 🌘 🌑 🌒 🌓 🌔 🌙 🌎 🌍 🌏 🪐 💫 ⭐️ 🌟 ✨ ⚡️ ☄️ 💥 🔥 🌪 -->
+
+## :atom: _Editor_ 📝📜📄  
 
 <a href="https://code.visualstudio.com" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="vscode" height="42px" src="https://user-images.githubusercontent.com/38312944/140616199-61ec4d02-98e2-4c6e-a4b5-d2e10f75d149.png" />
@@ -546,3 +587,5 @@ Here are some ideas to get you started:
 </a>
 
 <br /><br />
+
+</details>
