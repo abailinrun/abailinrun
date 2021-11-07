@@ -206,6 +206,10 @@ Here are some ideas to get you started:
   <img align="left" alt="mangodb" height="42px" src="https://user-images.githubusercontent.com/38312944/140624941-d7100162-6028-4fa4-b1b5-dd7d80e337b8.jpeg" />
 </a>
 
+<a href="https://redis.io" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="redis" height="42px" src="https://user-images.githubusercontent.com/38312944/140629056-3a154676-5dfb-40c5-ab9c-5db8b89e687f.png" />
+</a>
+
 <a href="https://www.mysql.com" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="mysql" height="42px" src="https://user-images.githubusercontent.com/38312944/140624956-0c62fb3a-af94-4be6-a5f4-8ad4399631de.png" />
 </a>
@@ -226,12 +230,56 @@ Here are some ideas to get you started:
   <img align="left" alt="r" height="42px" src="https://user-images.githubusercontent.com/38312944/140609897-aeae4f6e-08f2-4b0c-98af-cd898c367780.png" />
 </a>
 
+<a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="python" height="42px" src="https://user-images.githubusercontent.com/38312944/140606897-f461b853-f35e-4e83-8524-c39e35020199.png" />
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="pandas" height="42px" src="https://user-images.githubusercontent.com/38312944/140628640-85f7d66f-37d7-45bb-89af-79d65cdbf6dd.png" />
+</a>
+
+<a href="https://jupyter.org" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="jupyter" height="42px" src="https://user-images.githubusercontent.com/38312944/140628212-df4d448e-00f9-46e7-9b5c-5a1c75be28a7.png" />
+</a>
+
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="matlab" height="42px" src="https://user-images.githubusercontent.com/38312944/140627661-acf20929-8b41-47ce-af3d-6d60b19b4332.png" />
 </a>
 
+<br /><br />
+
 <a href="https://scikit-learn.org" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="scikit-learn" height="42px" src="https://user-images.githubusercontent.com/38312944/140610144-558e29ba-4c3f-413d-83e8-e63e0d6793bf.png" />
+</a>
+
+<a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="tensorflow" height="42px" src="https://user-images.githubusercontent.com/38312944/140628467-d83aeaa1-7cba-44b0-ac69-f462ced13f04.png" />
+</a>
+
+<a href="https://pytorch.org" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="pytorch" height="42px" src="https://user-images.githubusercontent.com/38312944/140628469-8fb7aac0-02aa-4ef9-98b5-7ba4a2ddfa38.png" />
+</a>
+
+<a href="https://keras.io" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="keras" height="42px" src="https://user-images.githubusercontent.com/38312944/140628505-0acd771b-ca23-40d3-ab40-fe4aa280fba5.png" />
+</a>
+
+<br /><br />
+
+<a href="https://xgboost.ai" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="xgboost" height="42px" src="https://user-images.githubusercontent.com/38312944/140628547-02882e25-2c3c-4a48-a003-aa1be4e3d855.png" />
+</a>
+
+<a href="https://lightgbm.readthedocs.io/en/latest" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="lightgbm" height="42px" src="https://user-images.githubusercontent.com/38312944/140628585-6c6012cf-2110-4815-951b-b24bb88c2508.png" />
+</a>
+
+<a href="https://radimrehurek.com/gensim" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="gensim" height="42px" src="https://user-images.githubusercontent.com/38312944/140628798-d89f495c-9a47-4948-ad68-3f6a3c75bab3.png" />
+</a>
+
+<a href="https://spacy.io" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="spacy" height="42px" src="https://user-images.githubusercontent.com/38312944/140628801-de5ae861-e20f-4090-8a28-5b66dfe7d190.png" />
 </a>
 
 <br /><br />
