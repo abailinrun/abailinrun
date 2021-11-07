@@ -335,6 +335,26 @@ Here are some ideas to get you started:
 
 <br /><br />
 
+## _Cloud Data Warehouse & Data Lake & Hosting_
+
+<a href="https://clickhouse.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="clickhouse" height="35px" src="https://user-images.githubusercontent.com/38312944/140630994-cd23f261-6f8b-4e00-b386-680f8ec9214e.png" />
+</a>
+
+<a href="https://www.snowflake.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="snowflake" height="35px" src="https://user-images.githubusercontent.com/38312944/140630962-c6882122-a7d1-414b-b515-7ac9d575ec52.png" />
+</a>
+
+<a href="https://pingcap.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="tidb" height="35px" src="https://user-images.githubusercontent.com/38312944/140631071-4172c381-0546-4e33-99b2-b9fdaf3cda4d.png" />
+</a>
+
+<a href="https://www.digitalocean.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="digitalocean" height="35px" src="https://user-images.githubusercontent.com/38312944/140631157-35197550-0980-4587-8f28-b34d46a7996b.png" />
+</a>
+
+<br /><br />
+
 ## _CI/CD & Building & Testing & Deploying & Automation_
 
 <a href="https://www.jenkins.io" target="_blank" rel="noopener noreferrer">
