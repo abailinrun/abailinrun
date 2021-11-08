@@ -14,14 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-# Status
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=aBaiLinrun&include_all_commits=true&count_private=true&show_icons=true&theme=onedark" />
-
-<br /><br /><br />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aBaiLinrun&include_all_commits=true&langs_count=8&count_private=true&show_icons=true&theme=onedark" />
-
 -->
 
 # 🪐 Languages / Frameworks / Platforms / Tools <!-- ☄️ -->
@@ -588,4 +580,19 @@ Here are some ideas to get you started:
 
 <br /><br />
 
+<details>
+  <summary> 🧧 🏮 STATUS 🏮 🧧 </summary>
+  <br />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=aBaiLinrun&include_all_commits=true&count_private=true&show_icons=true&theme=onedark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aBaiLinrun&include_all_commits=true&langs_count=8&count_private=true&show_icons=true&theme=onedark" />
+  <img align="left" src="https://raw.githubusercontent.com/aBaiLinrun/aBaiLinrun/master/profile-summary-card-output/monokai/0-profile-details.svg" />
+  <img align="left" src="https://raw.githubusercontent.com/aBaiLinrun/aBaiLinrun/master/profile-summary-card-output/monokai/1-repos-per-language.svg" />
+  <img align="left" src="https://raw.githubusercontent.com/aBaiLinrun/aBaiLinrun/master/profile-summary-card-output/monokai/2-most-commit-language.svg" />
+  <img align="left" src="https://raw.githubusercontent.com/aBaiLinrun/aBaiLinrun/master/profile-summary-card-output/monokai/3-stats.svg" />
+  <img align="left" src="https://raw.githubusercontent.com/aBaiLinrun/aBaiLinrun/master/profile-summary-card-output/monokai/4-productive-time.svg" />
+  <br />
 </details>
+  
+</details>
+
+
