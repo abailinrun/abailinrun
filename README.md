@@ -185,6 +185,16 @@ Here are some ideas to get you started:
   <img align="left" alt="elm" height="42px" src="https://user-images.githubusercontent.com/38312944/140625556-1f60563e-563a-4ac0-8c26-6842015a0d3e.png" />
 </a>
 
+<br /><br />
+  
+<a href="https://vitejs.dev" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="vitejs" height="42px" src="https://user-images.githubusercontent.com/38312944/141065711-a796a5e2-e041-41dd-967f-73f67a333d61.png" />
+</a>
+
+<a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="tailwindcss" height="42px" src="https://user-images.githubusercontent.com/38312944/141065800-9fe7c4ef-5e3f-4909-b3c1-d9a403308089.png" />
+</a>
+
 <br /><br /><br />
 
 <!-- ###### 🐶 🐕 🐩 🦮 🐕‍🦺 🐺 🐗 -->
