@@ -394,7 +394,7 @@ Here are some ideas to get you started:
 
 <!-- ###### 🐉 🐲 🦖 🦕 -->
 
-## 🧪 _End2End Automation Testing_ 🧫
+## 🧪 _End2End Automation Testing & Code Coverage_ 🧫
 
 <a href="https://www.selenium.dev" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="selenium" height="35px" src="https://user-images.githubusercontent.com/38312944/140626221-ea7e7a15-df8c-459c-bdb2-07e87a203b66.png" />
@@ -406,6 +406,10 @@ Here are some ideas to get you started:
 
 <a href="https://www.mabl.com" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="mabl" height="35px" src="https://user-images.githubusercontent.com/38312944/140625207-b9de61f1-8cd8-407a-b3b0-f9b2edbda6bf.png" />
+</a>
+
+<a href="https://about.codecov.io" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="codecov" height="35px" src="https://user-images.githubusercontent.com/38312944/140974912-32c7f99b-f39f-4298-b4f2-b74354a469c1.png" />
 </a>
 
 <br /><br /><br />
