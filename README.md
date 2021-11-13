@@ -66,6 +66,20 @@ Here are some ideas to get you started:
 
 <br /><br />
 
+<a href="https://www.php.net" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="php" height="42px" src="https://user-images.githubusercontent.com/38312944/140609474-e6af14a0-6573-4db8-8e98-5dc311b483df.png" />
+</a>
+
+<a href="https://symfony.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="symfony" height="42px" src="https://user-images.githubusercontent.com/38312944/141614493-8f03db41-d1f0-423b-abf6-db896f4a7435.png" />
+</a>
+
+<a href="https://laravel.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="laravel" height="42px" src="https://user-images.githubusercontent.com/38312944/141614491-6a8aa407-3cb8-4747-a86e-5d70e42cb291.png" />
+</a>
+
+<br /><br />
+
 <a href="https://golang.org" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="golang" height="36px" src="https://user-images.githubusercontent.com/38312944/140609645-7251e2bb-2c5f-4abf-8f46-2795e2ff4af5.png" />
   <img align="left" alt="gopher" height="42px" src="https://user-images.githubusercontent.com/38312944/140609653-43a432e6-164c-4896-9e50-3d4311a56fb6.png" />
@@ -74,10 +88,6 @@ Here are some ideas to get you started:
 <a href="https://www.rust-lang.org" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="rust" height="42px" src="https://user-images.githubusercontent.com/38312944/140609490-90f278ed-c52b-4851-aba7-5190a8512fec.png" />
   <img align="left" alt="rustacean" height="42px" src="https://user-images.githubusercontent.com/38312944/140609512-74c6067f-6969-4375-a8ef-989980058313.png" />
-</a>
-
-<a href="https://www.php.net" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="php" height="42px" src="https://user-images.githubusercontent.com/38312944/140609474-e6af14a0-6573-4db8-8e98-5dc311b483df.png" />
 </a>
 
 <br /><br />
