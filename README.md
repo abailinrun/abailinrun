@@ -377,6 +377,24 @@ Here are some ideas to get you started:
   <img align="left" alt="docker" height="42px" src="https://user-images.githubusercontent.com/38312944/140610635-a02899e5-4b74-42b5-91aa-c625adbd9874.png" />
 </a>
 
+<br /><br />
+
+<a href="https://cloudify.co" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="cloudify" height="42px" src="https://user-images.githubusercontent.com/38312944/141697089-a7418f1c-2493-4b9d-bf0c-e0d2cfa3abc3.png" />
+</a>
+
+<a href="https://releasehub.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="release" height="42px" src="https://user-images.githubusercontent.com/38312944/141696425-2a01a162-bad5-497a-a1f6-6aada154ca3e.png" />
+</a>
+
+<a href="https://www.bunnyshell.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="bunnyshell" height="42px" src="https://user-images.githubusercontent.com/38312944/141696436-92a6713e-2304-46b0-a4a0-ed1dfa83af5a.png" />
+</a>
+
+<a href="https://www.env0.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="env0" height="42px" src="https://user-images.githubusercontent.com/38312944/141697109-37123240-e18e-4f1f-9881-4b850036158b.png" />
+</a>
+
 <br /><br /><br />
 
 <!-- ###### 🐘 🦛 🦏 🐪 🐫 🦒 🦘 -->
