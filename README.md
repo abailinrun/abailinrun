@@ -202,7 +202,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="tailwindcss" height="42px" src="https://user-images.githubusercontent.com/38312944/141065800-9fe7c4ef-5e3f-4909-b3c1-d9a403308089.png" />
+  <img align="left" alt="tailwindcss" height="35px" src="https://user-images.githubusercontent.com/38312944/141065800-9fe7c4ef-5e3f-4909-b3c1-d9a403308089.png" />
 </a>
 
 <br /><br /><br />
@@ -252,25 +252,23 @@ Here are some ideas to get you started:
 ## 🕋 _Cloud Data Warehouse & Hosting & ETL(Extract,Transform,Load)_
 
 <a href="https://clickhouse.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="clickhouse" height="42px" src="https://user-images.githubusercontent.com/38312944/140630994-cd23f261-6f8b-4e00-b386-680f8ec9214e.png" />
+  <img align="left" alt="clickhouse" height="35px" src="https://user-images.githubusercontent.com/38312944/140630994-cd23f261-6f8b-4e00-b386-680f8ec9214e.png" />
 </a>
 
 <a href="https://www.snowflake.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="snowflake" height="42px" src="https://user-images.githubusercontent.com/38312944/140630962-c6882122-a7d1-414b-b515-7ac9d575ec52.png" />
+  <img align="left" alt="snowflake" height="35px" src="https://user-images.githubusercontent.com/38312944/140630962-c6882122-a7d1-414b-b515-7ac9d575ec52.png" />
 </a>
 
 <a href="https://pingcap.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="tidb" height="42px" src="https://user-images.githubusercontent.com/38312944/140631071-4172c381-0546-4e33-99b2-b9fdaf3cda4d.png" />
+  <img align="left" alt="tidb" height="35px" src="https://user-images.githubusercontent.com/38312944/140631071-4172c381-0546-4e33-99b2-b9fdaf3cda4d.png" />
 </a>
 
 <a href="https://panoply.io" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="panoply" height="42px" src="https://user-images.githubusercontent.com/38312944/140631485-37d01bfc-202a-4929-9801-1f9bbbf307d1.png" />
+  <img align="left" alt="panoply" height="35px" src="https://user-images.githubusercontent.com/38312944/140631485-37d01bfc-202a-4929-9801-1f9bbbf307d1.png" />
 </a>
 
-<br /><br />
-
 <a href="https://www.digitalocean.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="digitalocean" height="42px" src="https://user-images.githubusercontent.com/38312944/140631157-35197550-0980-4587-8f28-b34d46a7996b.png" />
+  <img align="left" alt="digitalocean" height="35px" src="https://user-images.githubusercontent.com/38312944/140631157-35197550-0980-4587-8f28-b34d46a7996b.png" />
 </a>
 
 <br /><br /><br />
@@ -342,19 +340,19 @@ Here are some ideas to get you started:
 <br /><br />
 
 <a href="https://xgboost.ai" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="xgboost" height="42px" src="https://user-images.githubusercontent.com/38312944/140628547-02882e25-2c3c-4a48-a003-aa1be4e3d855.png" />
+  <img align="left" alt="xgboost" height="35px" src="https://user-images.githubusercontent.com/38312944/140628547-02882e25-2c3c-4a48-a003-aa1be4e3d855.png" />
 </a>
 
 <a href="https://lightgbm.readthedocs.io/en/latest" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="lightgbm" height="42px" src="https://user-images.githubusercontent.com/38312944/140628585-6c6012cf-2110-4815-951b-b24bb88c2508.png" />
+  <img align="left" alt="lightgbm" height="35px" src="https://user-images.githubusercontent.com/38312944/140628585-6c6012cf-2110-4815-951b-b24bb88c2508.png" />
 </a>
 
 <a href="https://radimrehurek.com/gensim" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="gensim" height="42px" src="https://user-images.githubusercontent.com/38312944/140628798-d89f495c-9a47-4948-ad68-3f6a3c75bab3.png" />
+  <img align="left" alt="gensim" height="35px" src="https://user-images.githubusercontent.com/38312944/140628798-d89f495c-9a47-4948-ad68-3f6a3c75bab3.png" />
 </a>
 
 <a href="https://spacy.io" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="spacy" height="42px" src="https://user-images.githubusercontent.com/38312944/140628801-de5ae861-e20f-4090-8a28-5b66dfe7d190.png" />
+  <img align="left" alt="spacy" height="35px" src="https://user-images.githubusercontent.com/38312944/140628801-de5ae861-e20f-4090-8a28-5b66dfe7d190.png" />
 </a>
 
 <br /><br /><br />
@@ -549,7 +547,7 @@ Here are some ideas to get you started:
 ## 🧊 _Monitoring_
 
 <a href="https://newrelic.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="newrelic" height="42px" src="https://user-images.githubusercontent.com/38312944/141961771-2db16dca-5e18-4920-978d-5859cfe2e2c1.png" />
+  <img align="left" alt="newrelic" height="35px" src="https://user-images.githubusercontent.com/38312944/141961771-2db16dca-5e18-4920-978d-5859cfe2e2c1.png" />
 </a>
 
 <a href="https://www.datadoghq.com" target="_blank" rel="noopener noreferrer">
@@ -559,15 +557,15 @@ Here are some ideas to get you started:
 <br /><br />
 
 <a href="https://www.metricfire.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="metricfire" height="42px" src="https://user-images.githubusercontent.com/38312944/141989323-fd236cb7-6ac9-4ec1-830c-b519b5a604ed.jpeg" />
+  <img align="left" alt="metricfire" height="35px" src="https://user-images.githubusercontent.com/38312944/141989323-fd236cb7-6ac9-4ec1-830c-b519b5a604ed.jpeg" />
 </a>
 
 <a href="https://prometheus.io" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="prometheus" height="42px" src="https://user-images.githubusercontent.com/38312944/141989335-640e3c4c-5cfb-4761-a497-f2ae873186ad.png" />
+  <img align="left" alt="prometheus" height="35px" src="https://user-images.githubusercontent.com/38312944/141989335-640e3c4c-5cfb-4761-a497-f2ae873186ad.png" />
 </a>
 
 <a href="https://grafana.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="grafana" height="42px" src="https://user-images.githubusercontent.com/38312944/141961303-ef90ffca-2fe1-4100-846e-c3f62db9c6ac.png" />
+  <img align="left" alt="grafana" height="35px" src="https://user-images.githubusercontent.com/38312944/141961303-ef90ffca-2fe1-4100-846e-c3f62db9c6ac.png" />
 </a>
 
 <br /><br /><br />
