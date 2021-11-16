@@ -252,23 +252,25 @@ Here are some ideas to get you started:
 ## 🕋 _Cloud Data Warehouse & Hosting & ETL(Extract,Transform,Load)_
 
 <a href="https://clickhouse.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="clickhouse" height="35px" src="https://user-images.githubusercontent.com/38312944/140630994-cd23f261-6f8b-4e00-b386-680f8ec9214e.png" />
+  <img align="left" alt="clickhouse" height="42px" src="https://user-images.githubusercontent.com/38312944/140630994-cd23f261-6f8b-4e00-b386-680f8ec9214e.png" />
 </a>
 
 <a href="https://www.snowflake.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="snowflake" height="35px" src="https://user-images.githubusercontent.com/38312944/140630962-c6882122-a7d1-414b-b515-7ac9d575ec52.png" />
+  <img align="left" alt="snowflake" height="42px" src="https://user-images.githubusercontent.com/38312944/140630962-c6882122-a7d1-414b-b515-7ac9d575ec52.png" />
 </a>
 
 <a href="https://pingcap.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="tidb" height="35px" src="https://user-images.githubusercontent.com/38312944/140631071-4172c381-0546-4e33-99b2-b9fdaf3cda4d.png" />
+  <img align="left" alt="tidb" height="42px" src="https://user-images.githubusercontent.com/38312944/140631071-4172c381-0546-4e33-99b2-b9fdaf3cda4d.png" />
 </a>
 
 <a href="https://panoply.io" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="panoply" height="35px" src="https://user-images.githubusercontent.com/38312944/140631485-37d01bfc-202a-4929-9801-1f9bbbf307d1.png" />
+  <img align="left" alt="panoply" height="42px" src="https://user-images.githubusercontent.com/38312944/140631485-37d01bfc-202a-4929-9801-1f9bbbf307d1.png" />
 </a>
 
+<br /><br />
+
 <a href="https://www.digitalocean.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="digitalocean" height="35px" src="https://user-images.githubusercontent.com/38312944/140631157-35197550-0980-4587-8f28-b34d46a7996b.png" />
+  <img align="left" alt="digitalocean" height="42px" src="https://user-images.githubusercontent.com/38312944/140631157-35197550-0980-4587-8f28-b34d46a7996b.png" />
 </a>
 
 <br /><br /><br />
@@ -395,6 +397,13 @@ Here are some ideas to get you started:
   <img align="left" alt="env0" height="42px" src="https://user-images.githubusercontent.com/38312944/141697109-37123240-e18e-4f1f-9881-4b850036158b.png" />
 </a>
 
+<br /><br />
+
+<a href="https://aws.amazon.com/cdk" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="aws-cdk" height="42px" src="https://user-images.githubusercontent.com/38312944/141989706-ebe5282a-d0a3-4398-a12d-7250db875af1.png" />
+  <img align="left" alt="aws-cloud-development-kit" height="42px" src="https://user-images.githubusercontent.com/38312944/141957568-a99c8780-4c66-4870-bd7c-d21aa9d3e16e.png" />
+</a>
+
 <br /><br /><br />
 
 <!-- ###### 🐘 🦛 🦏 🐪 🐫 🦒 🦘 -->
@@ -402,16 +411,163 @@ Here are some ideas to get you started:
 ## 🗻 _Cloud Infrastructure_ ☁️
 
 <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="aws" height="35px" src="https://user-images.githubusercontent.com/38312944/140612998-5c976740-dedc-471b-9b36-64a7759e0421.png" />
-  <img align="left" alt="amazon-web-services" height="35px" src="https://user-images.githubusercontent.com/38312944/140613393-e6da5736-18f9-4271-a765-fdf436d80d6b.png" />
+  <img align="left" alt="aws" height="42px" src="https://user-images.githubusercontent.com/38312944/140612998-5c976740-dedc-471b-9b36-64a7759e0421.png" />
+  <img align="left" alt="amazon-web-services" height="42px" src="https://user-images.githubusercontent.com/38312944/140613393-e6da5736-18f9-4271-a765-fdf436d80d6b.png" />
 </a>
 
 <a href="https://azure.microsoft.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="azure" height="35px" src="https://user-images.githubusercontent.com/38312944/140613336-65848346-02a6-483e-a375-2524331d8ec1.png" />
+  <img align="left" alt="azure" height="42px" src="https://user-images.githubusercontent.com/38312944/140613336-65848346-02a6-483e-a375-2524331d8ec1.png" />
 </a>
 
 <a href="https://cloud.google.com/gcp" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="gcp" height="35px" src="https://user-images.githubusercontent.com/38312944/140612996-583799dc-956a-465a-9b47-f83ebaeed1c7.png" />
+  <img align="left" alt="gcp" height="42px" src="https://user-images.githubusercontent.com/38312944/140612996-583799dc-956a-465a-9b47-f83ebaeed1c7.png" />
+</a>
+
+<br /><br />
+
+<details>
+  <summary>(amazon web services)</summary>
+  <br />
+
+  API Gateway
+
+  Aurora Serverless
+  
+  Athena
+
+  Backup
+  
+  Batch
+
+  CloudFront
+
+  CloudSearch
+  
+  CloudTrail
+  
+  CloudWatch
+
+  CodeBuild
+  
+  CodeCommit
+  
+  CodeDeploy
+  
+  CodePipeline
+  
+  Cognito
+  
+  Data Pipeline
+
+  DeepLens
+  
+  DeepRacer
+  
+  DynamoDB
+
+  EBS (Elastic Block Store)
+  
+  EC2 (Elastic Compute Cloud)
+  
+  EC2 F1 (FPGA)
+
+  ECS (Elastic Container Service)
+  
+  EKS (Elastic Kubernetes Service)
+
+  ELB (Elastic Load Balancing)
+
+  Fargate (Serverless Compute Engine)
+
+  Forecast
+  
+  Glue (ETL, Extract/Transform/Load)
+  
+  IAM (Identity and Access Management)
+
+  IoT
+  
+  Kinesis
+
+  Lambda
+  
+  OpenSearch Service
+
+  Machine Learning
+  
+  Managed Blockchain
+  
+  Monitron
+  
+  MQ (Message Broker)
+
+  QuickSight
+  
+  Redshift
+  
+  RDS (Relational Database Service)
+  
+  RoboMaker
+
+  S3 (Simple Storage Service)
+
+  SNS (Simple Notification Service)
+
+  SES (Simple Email Service)
+
+  SQS (Simple Queue Service)
+
+  SageMaker
+  
+  Single Sign-On
+  
+  Step Functions
+  
+  Timestream (Time Series Database)
+  
+  VPC (Virtual Private Cloud)
+  
+  <br />
+</details>
+
+## 🌥 _CDN_
+
+<a href="https://www.akamai.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="akamai" height="42px" src="https://user-images.githubusercontent.com/38312944/141990119-493e716c-8593-4bfb-8fba-58deb3d9afd3.png" />
+</a>
+
+<a href="https://www.cloudflare.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="cloudflare" height="42px" src="https://user-images.githubusercontent.com/38312944/141964535-b081af7d-1a47-4eac-b92b-7c1dfd62de36.png" />
+</a>
+
+<a href="https://www.fastly.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="fastly" height="46px" src="https://user-images.githubusercontent.com/38312944/141990098-cbfd224a-aded-42ee-8ccf-487698f53d88.png" />
+</a>
+
+<br /><br /><br />
+
+## 🧊 _Monitoring_
+
+<a href="https://newrelic.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="newrelic" height="42px" src="https://user-images.githubusercontent.com/38312944/141961771-2db16dca-5e18-4920-978d-5859cfe2e2c1.png" />
+</a>
+
+<a href="https://www.datadoghq.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="datadog" height="42px" src="https://user-images.githubusercontent.com/38312944/141990376-36e3ea0d-e946-4707-972f-17ca6ca9efcd.jpeg" />
+</a>
+
+<br /><br />
+
+<a href="https://www.metricfire.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="metricfire" height="42px" src="https://user-images.githubusercontent.com/38312944/141989323-fd236cb7-6ac9-4ec1-830c-b519b5a604ed.jpeg" />
+</a>
+
+<a href="https://prometheus.io" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="prometheus" height="42px" src="https://user-images.githubusercontent.com/38312944/141989335-640e3c4c-5cfb-4761-a497-f2ae873186ad.png" />
+</a>
+
+<a href="https://grafana.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="grafana" height="42px" src="https://user-images.githubusercontent.com/38312944/141961303-ef90ffca-2fe1-4100-846e-c3f62db9c6ac.png" />
 </a>
 
 <br /><br /><br />
@@ -421,30 +577,34 @@ Here are some ideas to get you started:
 ## 🏗️ _CI/CD & Building & Testing & Deploying & Automation_
 
 <a href="https://www.jenkins.io" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="jenkins" height="35px" src="https://user-images.githubusercontent.com/38312944/140616580-40270d36-6189-4305-b0e7-3e95cb561fab.png" />
+  <img align="left" alt="jenkins" height="42px" src="https://user-images.githubusercontent.com/38312944/140616580-40270d36-6189-4305-b0e7-3e95cb561fab.png" />
 </a>
 
 <a href="https://circleci.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="cicleci" height="35px" src="https://user-images.githubusercontent.com/38312944/140613594-024814a0-49c8-4c95-b23f-ef2efa1e62c2.png" />
+  <img align="left" alt="cicleci" height="42px" src="https://user-images.githubusercontent.com/38312944/140613594-024814a0-49c8-4c95-b23f-ef2efa1e62c2.png" />
 </a>
 
 <br /><br /><br />
 
 <!-- ###### 🐉 🐲 🦖 🦕 -->
 
-## 🧪 _End2End Automation Testing & Code Coverage_ 🧫
+## 🧪 _End2End Automation Testing_
 
 <a href="https://www.selenium.dev" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="selenium" height="35px" src="https://user-images.githubusercontent.com/38312944/140626221-ea7e7a15-df8c-459c-bdb2-07e87a203b66.png" />
+  <img align="left" alt="selenium" height="42px" src="https://user-images.githubusercontent.com/38312944/140626221-ea7e7a15-df8c-459c-bdb2-07e87a203b66.png" />
 </a>
 
 <a href="https://autify.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="autify" height="35px" src="https://user-images.githubusercontent.com/38312944/140615903-49527775-2bd3-41d7-b3a5-86911bc7a70d.png" />
+  <img align="left" alt="autify" height="42px" src="https://user-images.githubusercontent.com/38312944/140615903-49527775-2bd3-41d7-b3a5-86911bc7a70d.png" />
 </a>
 
 <a href="https://www.mabl.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="mabl" height="35px" src="https://user-images.githubusercontent.com/38312944/140625207-b9de61f1-8cd8-407a-b3b0-f9b2edbda6bf.png" />
+  <img align="left" alt="mabl" height="42px" src="https://user-images.githubusercontent.com/38312944/140625207-b9de61f1-8cd8-407a-b3b0-f9b2edbda6bf.png" />
 </a>
+
+<br /><br /><br />
+
+## 🧫 _Code Coverage_
 
 <a href="https://about.codecov.io" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="codecov" height="35px" src="https://user-images.githubusercontent.com/38312944/140974912-32c7f99b-f39f-4298-b4f2-b74354a469c1.png" />
@@ -457,35 +617,51 @@ Here are some ideas to get you started:
 ## 😈 _Chaos Engineering_ 👹 🎴
 
 <a href="https://netflix.github.io/chaosmonkey" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="chaosmonkey" height="35px" src="https://user-images.githubusercontent.com/38312944/140627401-8b059385-684f-4aea-b8a0-8b3e782a4a74.png" />
+  <img align="left" alt="chaosmonkey" height="42px" src="https://user-images.githubusercontent.com/38312944/140627401-8b059385-684f-4aea-b8a0-8b3e782a4a74.png" />
 </a>
 
 <a href="https://www.gremlin.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="gremlin" height="35px" src="https://user-images.githubusercontent.com/38312944/140627406-f3cb9d06-04a6-48f6-828d-57fecd7620cc.png" />
+  <img align="left" alt="gremlin" height="42px" src="https://user-images.githubusercontent.com/38312944/140627406-f3cb9d06-04a6-48f6-828d-57fecd7620cc.png" />
 </a>
 
 <a href="https://chaos-mesh.org" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="chaos-mesh" height="35px" src="https://user-images.githubusercontent.com/38312944/140627402-fdad6ecd-741c-4607-82e2-431cd1c63658.png" />
+  <img align="left" alt="chaos-mesh" height="42px" src="https://user-images.githubusercontent.com/38312944/140627402-fdad6ecd-741c-4607-82e2-431cd1c63658.png" />
 </a>
 
 <br /><br />
 
 <a href="https://litmuschaos.io" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="litmuschaos" height="35px" src="https://user-images.githubusercontent.com/38312944/140627458-1e58223f-550a-487f-b29e-ce216ab23ed7.png" />
+  <img align="left" alt="litmuschaos" height="42px" src="https://user-images.githubusercontent.com/38312944/140627458-1e58223f-550a-487f-b29e-ce216ab23ed7.png" />
 </a>
 
 <a href="https://github.com/chaosblade-io/chaosblade" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="chaosblade" height="35px" src="https://user-images.githubusercontent.com/38312944/140627475-e732a4ae-99a9-4486-be14-e6e84c864b76.png" />
+  <img align="left" alt="chaosblade" height="42px" src="https://user-images.githubusercontent.com/38312944/140627475-e732a4ae-99a9-4486-be14-e6e84c864b76.png" />
 </a>
 
 <a href="https://istio.io" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="istio" height="35px" src="https://user-images.githubusercontent.com/38312944/140627521-c14e69d9-e378-4a9f-96de-58340111d054.png" />
+  <img align="left" alt="istio" height="42px" src="https://user-images.githubusercontent.com/38312944/140627521-c14e69d9-e378-4a9f-96de-58340111d054.png" />
 </a>
 
 <br /><br />
 
 <a href="https://www.robustintelligence.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="robust-intelligence" height="35px" src="https://user-images.githubusercontent.com/38312944/140616535-89c11331-e639-4cb4-ac60-23e2817ab53a.png" />
+  <img align="left" alt="robust-intelligence" height="42px" src="https://user-images.githubusercontent.com/38312944/140616535-89c11331-e639-4cb4-ac60-23e2817ab53a.png" />
+</a>
+
+<br /><br /><br />
+
+## 🎭 _Authetication_
+
+<a href="https://www.okta.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="okta" height="42px" src="https://user-images.githubusercontent.com/38312944/141963494-22284d1a-2f7a-4367-96a2-cf9f8bdde672.png" />
+</a>
+
+<a href="https://auth0.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="auth0" height="42px" src="https://user-images.githubusercontent.com/38312944/141963619-c1fe8d1e-e87a-4646-948a-43f0e34528e3.png" />
+</a>
+
+<a href="https://www.pingidentity.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="pingidentity" height="42px" src="https://user-images.githubusercontent.com/38312944/141963968-28a6b348-9a33-4f71-8c14-fa84473e8bb8.png" />
 </a>
 
 <br /><br /><br />
@@ -495,15 +671,15 @@ Here are some ideas to get you started:
 ## :octocat: _git & Repository_ 🐈🙀🐙 🦊
 
 <a href="https://git-scm.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="git" height="35px" src="https://user-images.githubusercontent.com/38312944/140626746-5687dcd9-f3e5-4eed-aaee-c417901deb59.png" />
+  <img align="left" alt="git" height="42px" src="https://user-images.githubusercontent.com/38312944/140626746-5687dcd9-f3e5-4eed-aaee-c417901deb59.png" />
 </a>
 
 <a href="https://www.github.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="github" height="35px" src="https://user-images.githubusercontent.com/38312944/140626663-d358846e-0259-428b-ac30-ad1d2166f38a.png" />
+  <img align="left" alt="github" height="42px" src="https://user-images.githubusercontent.com/38312944/140626663-d358846e-0259-428b-ac30-ad1d2166f38a.png" />
 </a>
 
 <a href="https://about.gitlab.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="gitlab" height="35px" src="https://user-images.githubusercontent.com/38312944/140626664-27c13aa2-2775-40ad-a4ef-8ff3261ed746.png" />
+  <img align="left" alt="gitlab" height="42px" src="https://user-images.githubusercontent.com/38312944/140626664-27c13aa2-2775-40ad-a4ef-8ff3261ed746.png" />
 </a>
 
 <br /><br /><br />
@@ -566,22 +742,22 @@ Here are some ideas to get you started:
 
 <!-- ###### 🌵 🎍 🎋 🍂 🍁 🍄 🌸 🌼 🌻 -->
 
-## 🗣 _Scrum & Team_ 👨‍💻🧑🏻‍💻👩🏻‍💻👨🏻‍💻 🚪
+## 🗣 _Scrum &  Team_ 👨‍💻🧑🏻‍💻👩🏻‍💻👨🏻‍💻 🚪 Project Portfolio Management
 
 <a href="https://asana.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="asana" height="25px" src="https://user-images.githubusercontent.com/38312944/140613752-9cad24e4-7ee7-4ea6-9b91-0dd41dfa418d.png" />
-</a>
-
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="jira" height="25px" src="https://user-images.githubusercontent.com/38312944/140614036-0db32654-8723-4e44-ae75-059510fd25d0.png" />
-</a>
-
-<a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="confluence" height="25px" src="https://user-images.githubusercontent.com/38312944/140614771-ce4c4f70-930d-420e-a487-9971782b9ba0.png" />
+  <img align="left" alt="asana" height="30px" src="https://user-images.githubusercontent.com/38312944/140613752-9cad24e4-7ee7-4ea6-9b91-0dd41dfa418d.png" />
 </a>
 
 <a href="https://www.redmine.org" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="redmine" height="25px" src="https://user-images.githubusercontent.com/38312944/140626652-b37c0f75-8b58-48ee-952d-4020b145f5cf.png" />
+  <img align="left" alt="redmine" height="30px" src="https://user-images.githubusercontent.com/38312944/140626652-b37c0f75-8b58-48ee-952d-4020b145f5cf.png" />
+</a>
+
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="jira" height="30px" src="https://user-images.githubusercontent.com/38312944/140614036-0db32654-8723-4e44-ae75-059510fd25d0.png" />
+</a>
+
+<a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="confluence" height="30px" src="https://user-images.githubusercontent.com/38312944/140614771-ce4c4f70-930d-420e-a487-9971782b9ba0.png" />
 </a>
 
 <br /><br />
