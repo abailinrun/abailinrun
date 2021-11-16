@@ -745,19 +745,19 @@ Here are some ideas to get you started:
 ## 🗣 _Scrum &  Team_ 👨‍💻🧑🏻‍💻👩🏻‍💻👨🏻‍💻 🚪 Project Portfolio Management
 
 <a href="https://asana.com" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="asana" height="30px" src="https://user-images.githubusercontent.com/38312944/140613752-9cad24e4-7ee7-4ea6-9b91-0dd41dfa418d.png" />
+  <img align="left" alt="asana" height="28px" src="https://user-images.githubusercontent.com/38312944/140613752-9cad24e4-7ee7-4ea6-9b91-0dd41dfa418d.png" />
 </a>
 
 <a href="https://www.redmine.org" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="redmine" height="30px" src="https://user-images.githubusercontent.com/38312944/140626652-b37c0f75-8b58-48ee-952d-4020b145f5cf.png" />
+  <img align="left" alt="redmine" height="28px" src="https://user-images.githubusercontent.com/38312944/140626652-b37c0f75-8b58-48ee-952d-4020b145f5cf.png" />
 </a>
 
 <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="jira" height="30px" src="https://user-images.githubusercontent.com/38312944/140614036-0db32654-8723-4e44-ae75-059510fd25d0.png" />
+  <img align="left" alt="jira" height="28px" src="https://user-images.githubusercontent.com/38312944/140614036-0db32654-8723-4e44-ae75-059510fd25d0.png" />
 </a>
 
 <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noopener noreferrer">
-  <img align="left" alt="confluence" height="30px" src="https://user-images.githubusercontent.com/38312944/140614771-ce4c4f70-930d-420e-a487-9971782b9ba0.png" />
+  <img align="left" alt="confluence" height="28px" src="https://user-images.githubusercontent.com/38312944/140614771-ce4c4f70-930d-420e-a487-9971782b9ba0.png" />
 </a>
 
 <br /><br />
