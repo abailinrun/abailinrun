@@ -90,6 +90,12 @@ Here are some ideas to get you started:
   <img align="left" alt="rustacean" height="42px" src="https://user-images.githubusercontent.com/38312944/140609512-74c6067f-6969-4375-a8ef-989980058313.png" />
 </a>
 
+<a href="https://ziglang.org/" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="zig" height="42px" src="https://user-images.githubusercontent.com/38312944/185755673-0ffba274-f430-4d24-a65a-1726b76f0630.png" />
+  <img align="left" alt="ziggy" height="48px" src="https://user-images.githubusercontent.com/38312944/185755718-f0ff2c88-6428-4c2d-b436-9bdff603e035.png" />
+</a>
+
+
 <br /><br />
 
 <a href="https://www.iso.org/standard/74528.html" target="_blank" rel="noopener noreferrer">
@@ -120,6 +126,11 @@ Here are some ideas to get you started:
 
 <a href="https://deno.land" target="_blank" rel="noopener noreferrer">
   <img align="left" alt="deno" height="44px" src="https://user-images.githubusercontent.com/38312944/140609069-9d7844ee-afba-4885-b895-b98dcd4e23f3.png" />
+</a>
+
+<a href="https://bun.sh/" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="bun" height="42px" src="https://user-images.githubusercontent.com/38312944/185755850-ccb31253-aef2-433e-bbd7-891780410b62.png" />
+  <img align="left" alt="bun" height="38px" src="https://user-images.githubusercontent.com/38312944/185755899-736e5997-bf6f-4085-b652-fc083d40eda7.png" />
 </a>
 
 <a href="https://graphql.org" target="_blank" rel="noopener noreferrer">
