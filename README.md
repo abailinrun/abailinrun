@@ -326,8 +326,18 @@ Here are some ideas to get you started:
   <img align="left" alt="metabase" height="42px" src="https://user-images.githubusercontent.com/38312944/140614340-3ce4dedd-328d-4684-acce-01e71fab529a.png" />
 </a>
 
-<br /><br /><br />
+<a href="https://superset.apache.org/" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="apache-superset" height="42px" src="https://user-images.githubusercontent.com/38312944/199215695-373e5ded-2235-489e-ac03-4edc061018f9.png" />
+</a>
 
+<br /><br />
+
+<a href="https://airbyte.com/" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="airbyte" height="42px" src="https://user-images.githubusercontent.com/38312944/199215976-b25e6833-9a86-4150-bfa8-93c7b8ef2562.png" />
+</a>
+
+<br /><br /><br />
+  
 <!-- ###### 🐷 🐖 🐽 🐴 🦄 🐎 🦓 🐮 🐃 🐂 🐄 🐏 🐑 🐐 🦙 🦌 -->
 
 ## 👾 _Machine Learning_ 🔮🧙🏼‍♂️⚗️
